@@ -1,16 +1,65 @@
-## Hi there 👋
+ Hi there, I'm Lerato! 👋
 
-<!--
-**ITLerato/ITLerato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Aspiring Cybersecurity Analyst
 
-Here are some ideas to get you started:
+Welcome to my GitHub portfolio!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an aspiring Cybersecurity professional passionate about network security, information security, cloud security and protecting digital environments.
+
+This portfolio showcases my academic journey, practical projects, technical skills and continuous learning in cybersecurity.
+
+🎯 Areas of Interest
+
+Network Security
+
+Cybersecurity Operations
+
+Security Monitoring and Incident Response
+
+Cloud Security
+
+Microsoft Security
+
+Governance, Risk and Compliance (GRC)
+
+🛠️ Technical Skills & Tools
+
+Cisco Packet Tracer
+
+Wireshark
+
+Microsoft Azure Fundamentals
+
+Microsoft Security
+
+Windows 11
+
+Networking Fundamentals
+
+📚 Currently Learning
+
+Microsoft SC-900
+
+Network Security (NES511)
+
+Cybersecurity Fundamentals
+
+Threat Detection and Incident Response
+
+🚀 My Portfolio Projects
+
+Coming soon:
+
+Cisco Packet Tracer Network Configuration
+
+Network Security Analysis
+
+Cybersecurity Risk Assessment
+
+Incident Response Exercises
+
+🌱 My Career Goal
+
+To grow into a skilled Cybersecurity Analyst and contribute to protecting organisations against evolving cyber threats.
+
+⭐ Thank you for visiting my portfolio!
